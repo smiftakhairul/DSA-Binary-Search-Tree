@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1459530027 source:f:\c++ ( data structure and algorithm )\lab 12\binary search tree\binarysearchtree.cpp
+	"binarySearchTree.h"
+	"queType.cpp"
+	<iostream>
+
+1459529777 f:\c++ ( data structure and algorithm )\lab 12\binary search tree\binarysearchtree.h
+	"queType.h"
+
+1455145148 f:\c++ ( data structure and algorithm )\lab 12\binary search tree\quetype.h
+
+1455145254 f:\c++ ( data structure and algorithm )\lab 12\binary search tree\quetype.cpp
+	"queType.h"
+	<iostream>
+
+1459528249 source:f:\c++ ( data structure and algorithm )\lab 12\binary search tree\main.cpp
+	"binarySearchTree.h"
+	"binarySearchTree.cpp"
+	<iostream>
+
+1459528423 f:\c++ ( data structure and algorithm )\lab 12\binary search tree\binarysearchtree.cpp
+	"binarySearchTree.h"
+	"queType.cpp"
+	<iostream>
+
